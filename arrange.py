@@ -1,6 +1,6 @@
 import os
 # without changes any things, any one add more extension at the extension() function.
-# make pair of Key and Values add move extensions.
+# make pair of Key and Values add more extensions.
 
 # os.getcwdb() # print current dir
 # os.getcwd() # print current dir
